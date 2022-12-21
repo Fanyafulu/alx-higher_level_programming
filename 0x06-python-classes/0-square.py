@@ -1,5 +1,5 @@
 #!/usr/bin/python3
-quare.py Franklin U
+0-square.pby by Franklin U
 """Define a class Square."""
 
 class Square:
